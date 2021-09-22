@@ -8,12 +8,12 @@ public class Main extends Application{
 	@Override
 	public void start(Stage primaryStage) throws Exception {
 		
-<<<<<<< HEAD
 		// Hola 
-=======
-		//Testeo codificacion COOPfd
-		
->>>>>>> branch 'master' of https://github.com/Santi1761/La_Cucharita
+		// buenas noches
+		//La enseñanza eficaz del Evangelio nutrirá
+		//y edificará a los demás. Edificará su fe y les dará la confianza que necesitan 
+		//para enfrentar los retos de la vida. Les alentará a abandonar el pecado y a obedecer
+		//los mandamientos.
 	}
 
 }
