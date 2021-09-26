@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.text.Font?>
+
+<BorderPane fx:id="tiposBorder" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1">
+   <center>
+      <TableView fx:id="TypeTbv" prefHeight="391.0" prefWidth="183.0" BorderPane.alignment="CENTER">
+        <columns>
+          <TableColumn fx:id="typeColtbv" prefWidth="284.0" text="Tipos" />
+        </columns>
+      </TableView>
+   </center>
+   <right>
+      <AnchorPane prefHeight="200.0" prefWidth="200.0" style="-fx-background-color: #000000;" BorderPane.alignment="CENTER">
+         <children>
+            <Label layoutX="61.0" layoutY="28.0" text="Nombre de tipo" textFill="#f89743">
+               <font>
+                  <Font name="Cambria Bold" size="22.0" />
+               </font>
+            </Label>
+            <TextField fx:id="TypeNametxt" layoutX="38.0" layoutY="64.0" prefHeight="25.0" prefWidth="210.0" />
+            <Label layoutX="61.0" layoutY="252.0" prefHeight="9.0" prefWidth="247.0" text="Nuevo nombre de tipo" textFill="#f89743">
+               <font>
+                  <Font name="Cambria Bold" size="18.0" />
+               </font>
+            </Label>
+            <TextField fx:id="newTypeNametxt" layoutX="48.0" layoutY="290.0" prefHeight="25.0" prefWidth="210.0" />
+            <Button layoutX="160.0" layoutY="104.0" mnemonicParsing="false" onAction="#deleteTypebtn" style="-fx-background-color: #f89743;" text="Eliminar" textFill="WHITE">
+               <font>
+                  <Font name="Cambria Bold" size="15.0" />
+               </font>
+            </Button>
+            <Button layoutX="53.0" layoutY="104.0" mnemonicParsing="false" onAction="#addTypebtn" style="-fx-background-color: #f89743;" text="Agregar" textFill="WHITE">
+               <font>
+                  <Font name="Cambria Bold" size="17.0" />
+               </font>
+            </Button>
+            <Button layoutX="90.0" layoutY="151.0" mnemonicParsing="false" onAction="#disTypebtn" style="-fx-background-color: #f89743;" text="Deshabilitar" textFill="WHITE">
+               <font>
+                  <Font name="Cambria Bold" size="16.0" />
+               </font>
+            </Button>
+            <Button layoutX="48.0" layoutY="331.0" mnemonicParsing="false" onAction="#updateTypebtn" style="-fx-background-color: #f89743;" text="Actualizar" textFill="WHITE">
+               <font>
+                  <Font name="Cambria Bold" size="16.0" />
+               </font>
+            </Button>
+            <Button layoutX="188.0" layoutY="331.0" mnemonicParsing="false" onAction="#backtomenuTy" style="-fx-background-color: #f89743;" text="Volver" textFill="WHITE">
+               <font>
+                  <Font name="Cambria Bold" size="16.0" />
+               </font>
+            </Button>
+         </children>
+      </AnchorPane>
+   </right>
+</BorderPane>

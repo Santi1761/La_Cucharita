@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.control.SplitPane?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.text.Font?>
+
+<BorderPane fx:id="BorderPane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1">
+   <left>
+      <GridPane prefHeight="403.0" prefWidth="600.0" BorderPane.alignment="CENTER">
+        <columnConstraints>
+          <ColumnConstraints hgrow="SOMETIMES" maxWidth="300.0" minWidth="10.0" prefWidth="130.0" />
+          <ColumnConstraints hgrow="SOMETIMES" maxWidth="499.9999771118164" minWidth="10.0" prefWidth="470.0" />
+        </columnConstraints>
+        <rowConstraints>
+          <RowConstraints maxHeight="120.0" minHeight="0.0" prefHeight="120.0" vgrow="SOMETIMES" />
+          <RowConstraints maxHeight="136.66665649414062" minHeight="0.0" prefHeight="136.66665649414062" vgrow="SOMETIMES" />
+          <RowConstraints maxHeight="215.33334350585938" minHeight="10.0" prefHeight="143.33334350585938" vgrow="SOMETIMES" />
+        </rowConstraints>
+         <children>
+            <TextField fx:id="usernamelogintxt" prefHeight="31.0" prefWidth="276.0" GridPane.columnIndex="1" GridPane.rowIndex="1" />
+            <PasswordField fx:id="passwordlogintxt" prefHeight="1.0" prefWidth="332.0" GridPane.columnIndex="1" GridPane.rowIndex="2" />
+            <Label alignment="CENTER" prefHeight="27.0" prefWidth="105.0" text="Cedula:" textFill="#f89743" GridPane.rowIndex="1">
+               <font>
+                  <Font name="Cambria Bold" size="22.0" />
+               </font>
+            </Label>
+            <Label alignment="CENTER" prefHeight="32.0" prefWidth="150.0" text="Contraseña:" textFill="#f89743" GridPane.rowIndex="2">
+               <font>
+                  <Font name="Cambria Bold" size="22.0" />
+               </font>
+            </Label>
+            <Label fx:id="message" prefHeight="42.0" prefWidth="122.0" textFill="#ee1106" GridPane.columnIndex="1">
+               <font>
+                  <Font size="23.0" />
+               </font>
+            </Label>
+            <ImageView fitHeight="80.0" fitWidth="354.0" nodeOrientation="INHERIT" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="1">
+               <image>
+                  <Image url="@../La%20Cucharita.png" />
+               </image>
+            </ImageView>
+         </children>
+      </GridPane>
+   </left>
+   <bottom>
+      <SplitPane dividerPositions="0.5" prefHeight="160.0" prefWidth="200.0" BorderPane.alignment="CENTER">
+        <items>
+          <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="160.0" prefWidth="100.0" style="-fx-background-color: #000000;">
+               <children>
+                  <Button layoutX="76.0" layoutY="47.0" mnemonicParsing="false" onAction="#signinloginBtn" style="-fx-background-color: #f89743;" text="Entrar" textFill="WHITE">
+                     <font>
+                        <Font name="Cambria Bold" size="33.0" />
+                     </font>
+                  </Button>
+               </children>
+            </AnchorPane>
+          <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="160.0" prefWidth="100.0" style="-fx-background-color: #000000;">
+               <children>
+                  <Button layoutX="55.0" layoutY="52.0" mnemonicParsing="false" onAction="#signuploginBtn" style="-fx-background-color: #f89743;" text="Registrarse" textFill="WHITE">
+                     <font>
+                        <Font name="Cambria Bold" size="28.0" />
+                     </font>
+                  </Button>
+               </children>
+            </AnchorPane>
+        </items>
+      </SplitPane>
+   </bottom>
+</BorderPane>

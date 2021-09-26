@@ -1,19 +1,30 @@
 package ui;
 
 import javafx.application.Application;
+import javafx.fxml.FXMLLoader;
+import javafx.scene.Parent;
+import javafx.scene.Scene;
 import javafx.stage.Stage;
 
 public class Main extends Application{
-
+	
+	private InterfaceGUI controller;
+	
+	public static void main(String[] args) {
+		launch(args);
+	}
+	
 	@Override
 	public void start(Stage primaryStage) throws Exception {
+		FXMLLoader fxmlLoader = new FXMLLoader(getClass().getResource("Login.fxml"));
+		controller = new InterfaceGUI();
+		fxmlLoader.setController(controller);
+		Parent root = fxmlLoader.load();
+		Scene scene = new Scene(root);
 		
-		// Hola 
-		// buenas noches
-		//La enseñanza eficaz del Evangelio nutrirá
-		//y edificará a los demás. Edificará su fe y les dará la confianza que necesitan 
-		//para enfrentar los retos de la vida. Les alentará a abandonar el pecado y a obedecer
-		//los mandamientos.
+		primaryStage.setScene(scene); 
+		primaryStage.setTitle("Bienvenido a La Cucharita :D");
+		primaryStage.show();
+		
 	}
-
 }
