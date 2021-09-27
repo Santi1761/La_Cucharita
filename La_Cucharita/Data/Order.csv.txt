@@ -1,0 +1,1001 @@
+name;size;price;ingredients
+nsitwell0;L;$9.55;Table Cloth 91x91 Colour
+rkurten1;L;$8.46;Sauce - Hp
+jedland2;3XL;$1.33;Appetizer - Mushroom Tart
+jvonnassau3;2XL;$0.30;Assorted Desserts
+rsymes4;S;$7.19;Spic And Span All Purpose
+vvanderkruys5;XL;$3.20;Zucchini - Yellow
+dhehir6;M;$3.42;Wine - Gewurztraminer Pierre
+agrewcock7;3XL;$3.77;Wine - Duboeuf Beaujolais
+rmunks8;3XL;$3.92;Beef - Salted
+mpattenden9;3XL;$5.09;Ice Cream Bar - Oreo Cone
+bbrothwella;M;$2.78;Vegetable - Base
+nhumphreyb;S;$6.52;Squash - Pattypan, Yellow
+pmccrannc;XS;$0.83;Fudge - Cream Fudge
+rwoolrichd;L;$6.55;Cake - Lemon Chiffon
+emarthene;L;$1.86;V8 Splash Strawberry Kiwi
+raucuttf;2XL;$0.29;Pastry - Chocolate Chip Muffin
+rdettmarg;3XL;$3.04;Apples - Sliced / Wedge
+elawsonh;S;$6.86;Beets - Candy Cane, Organic
+dmariei;2XL;$1.58;Wine - Crozes Hermitage E.
+nmardej;2XL;$4.05;Pork - Ground
+rchesek;3XL;$9.20;Quail - Whole, Boneless
+lpavelinl;XL;$4.06;Soup - Tomato Mush. Florentine
+mclutheramm;3XL;$7.41;Beer - Sleemans Honey Brown
+glefrancn;S;$0.22;Beans - Turtle, Black, Dry
+nariso;XS;$6.74;Tart - Butter Plain Squares
+mchuneyp;XS;$5.04;Milk - Skim
+mfiermanq;XL;$2.73;Bread - Hamburger Buns
+kerangeyr;L;$0.33;Muffin - Carrot Individual Wrap
+whaswalls;M;$1.45;Cauliflower
+rfilasovt;2XL;$7.40;V8 Splash Strawberry Kiwi
+ipeaku;L;$7.77;Appetizer - Lobster Phyllo Roll
+erozzierv;XS;$9.48;Sobe - Liz Blizz
+hgedneyw;S;$2.94;Cheese - Shred Cheddar / Mozza
+ajackx;S;$4.26;Towel - Roll White
+kduboisy;M;$7.31;Soy Protein
+swillimottz;XL;$2.60;Brandy Apricot
+gwincom10;3XL;$2.84;Flour - Masa De Harina Mexican
+ppechard11;S;$3.56;Sugar - Invert
+rbaskeyfield12;S;$9.88;Pork - Bacon Cooked Slcd
+mjenkin13;L;$9.22;Lamb - Bones
+tgatley14;XS;$1.85;Calypso - Black Cherry Lemonade
+mantonias15;2XL;$6.09;Bread Base - Gold Formel
+fgritsunov16;M;$0.80;Wine - Niagara,vqa Reisling
+mhancorn17;L;$0.95;Pastry - Mini French Pastries
+awhawell18;M;$9.57;Fiddlehead - Frozen
+gcheevers19;XS;$6.69;Spice - Montreal Steak Spice
+rsammonds1a;3XL;$3.82;Veal - Round, Eye Of
+hcuncarr1b;M;$3.83;Trout - Smoked
+fshanley1c;2XL;$6.73;Wine - Tribal Sauvignon
+oblaes1d;M;$2.10;The Pop Shoppe - Root Beer
+nlombardo1e;XL;$8.66;Beer - Pilsner Urquell
+gsolley1f;3XL;$8.99;Cod - Black Whole Fillet
+bvahl1g;L;$7.13;Wine - Wyndham Estate Bin 777
+lthame1h;M;$3.27;Wine - German Riesling
+aboich1i;XL;$2.76;Potatoes - Instant, Mashed
+tjakubovics1j;XS;$4.49;Lamb - Racks, Frenched
+estainer1k;2XL;$2.53;Mussels - Frozen
+sblaiklock1l;XS;$4.04;Cheese - Cheddarsliced
+aquinby1m;S;$7.53;Vinegar - Balsamic
+pspering1n;XL;$6.04;Veal - Brisket, Provimi, Bone - In
+kleist1o;S;$4.87;Aspic - Light
+ijex1p;2XL;$1.80;Compound - Pear
+cmcpartling1q;L;$0.52;Cookies Almond Hazelnut
+bgelardi1r;XS;$8.73;Noodles - Cellophane, Thin
+cpurser1s;L;$5.62;Ranchero - Primerba, Paste
+ldarwin1t;L;$7.53;Spinach - Baby
+lemptage1u;M;$7.99;Sardines
+dreedie1v;XS;$1.66;Ecolab - Solid Fusion
+mviollet1w;XL;$8.00;Wine - Manischewitz Concord
+tbendixen1x;L;$7.39;Mushroom - Chanterelle Frozen
+fblakiston1y;2XL;$6.55;Bread Foccacia Whole
+ehailes1z;3XL;$0.18;Tofu - Firm
+zvanderhoeven20;S;$3.69;Quail Eggs - Canned
+tduester21;XL;$4.54;Soup - Beef, Base Mix
+smacgillavery22;3XL;$5.49;Iced Tea - Lemon, 460 Ml
+ttumielli23;S;$2.12;Lamb - Racks, Frenched
+nprimarolo24;2XL;$5.91;Grenadine
+wsweetland25;S;$3.16;Halibut - Steaks
+cgracewood26;L;$2.13;Crab - Claws, Snow 16 - 24
+kocallaghan27;XS;$3.24;Creme De Banane - Marie
+mlowes28;XL;$7.21;Wine - White, Antinore Orvieto
+svanoord29;M;$6.21;Banana Turning
+flavens2a;M;$4.13;Muffin Hinge - 211n
+hgemnett2b;S;$2.31;Tuna - Salad Premix
+lorred2c;3XL;$9.30;Chicken - Whole Fryers
+atruss2d;L;$9.77;Cookie Double Choco
+ldimeo2e;M;$0.27;Puff Pastry - Slab
+bspillett2f;2XL;$8.91;Dill Weed - Fresh
+skinnett2g;S;$4.84;Rye Special Old
+hyanukhin2h;2XL;$1.50;Beef - Ground Lean Fresh
+dfield2i;S;$3.17;Jack Daniels
+pbielfelt2j;2XL;$0.68;Soup - Boston Clam Chowder
+ctolcharde2k;M;$7.67;Longan
+jmcmurty2l;XS;$8.23;Bowl 12 Oz - Showcase 92012
+skennaird2m;2XL;$3.30;Wine - Casillero Del Diablo
+agisburn2n;S;$3.42;Cinnamon Rolls
+cshone2o;XL;$9.08;Grenadine
+bmcphillimey2p;L;$6.88;Veal - Leg
+shanley2q;2XL;$5.87;Pork - Bacon, Sliced
+cmcgonigal2r;M;$5.90;Lettuce - Mini Greens, Whole
+kmctrustram2s;L;$8.56;Wine - Niagara Peninsula Vqa
+ntrusty2t;XS;$6.87;Flower - Commercial Bronze
+mdantonio2u;M;$0.78;Island Oasis - Ice Cream Mix
+pcheine2v;L;$7.23;Syrup - Chocolate
+ospratley2w;L;$0.40;Catfish - Fillets
+sstucke2x;XL;$6.43;Mints - Striped Red
+jdeadman2y;M;$0.37;Pasta - Fett Alfredo, Single Serve
+cduckworth2z;M;$0.70;Trout - Smoked
+dosirin30;L;$5.16;Glucose
+dscatcher31;XS;$3.39;Cake - Box Window 10x10x2.5
+nkik32;XS;$2.18;Beef - Tenderloin - Aa
+dmaclaig33;L;$1.31;Muffin Hinge 117n
+adael34;XL;$4.55;Butter - Salted, Micro
+kreisenstein35;S;$2.42;Chicken Breast Halal
+erault36;3XL;$6.14;Rum - Mount Gay Eclipes
+csamweyes37;XL;$4.81;Thyme - Fresh
+zpregel38;XL;$6.69;Carbonated Water - Cherry
+sletham39;XS;$5.75;Kumquat
+lburtwhistle3a;M;$1.35;Goat - Leg
+gmcmains3b;S;$5.06;Nut - Peanut, Roasted
+kmacnally3c;XS;$6.45;Goldschalger
+gfrisch3d;M;$4.00;Table Cloth 62x120 White
+abaggiani3e;3XL;$4.86;Ginger - Ground
+mbennitt3f;XL;$9.24;Crab - Meat
+carington3g;XS;$7.36;Icecream - Dstk Super Cone
+lrawsthorne3h;3XL;$4.88;Table Cloth 72x144 White
+camberson3i;3XL;$9.10;Ecolab Silver Fusion
+jdood3j;XL;$1.22;Bread - Multigrain
+klawful3k;2XL;$0.84;Water, Tap
+thyndley3l;S;$0.23;Anchovy Paste - 56 G Tube
+dsinclair3m;S;$6.00;Wine - Port Late Bottled Vintage
+abecom3n;XS;$9.33;Icecream Cone - Areo Chocolate
+atomczykiewicz3o;L;$1.31;Cilantro / Coriander - Fresh
+gaugustus3p;2XL;$0.16;Aromat Spice / Seasoning
+hbartzen3q;XS;$2.63;Lemonade - Strawberry, 591 Ml
+wduligal3r;XS;$6.57;Paper Cocktail Umberlla 80 - 180
+clancett3s;XS;$3.85;Lid Tray - 16in Dome
+gumbers3t;2XL;$5.60;Pepper - Green
+cscroggie3u;XL;$3.77;Salmon Steak - Cohoe 8 Oz
+ntaudevin3v;S;$9.63;Bagelers
+cmilburn3w;L;$4.43;Cheese - Ermite Bleu
+hkinleyside3x;2XL;$5.15;Puree - Blackcurrant
+dspykings3y;2XL;$7.07;Oil - Olive
+tdunthorne3z;S;$5.45;Pepper - Orange
+dlowthorpe40;XL;$3.10;Juice - Orange, Concentrate
+tmedina41;XL;$4.79;Juice - Cranberry, 341 Ml
+cdambrosi42;XL;$8.34;Appetizer - Smoked Salmon / Dill
+bkunert43;XS;$2.79;Leeks - Baby, White
+bcisneros44;L;$5.08;Ostrich - Prime Cut
+tkinzett45;XS;$4.27;Molasses - Fancy
+adurman46;XL;$10.00;Muffin Mix - Banana Nut
+twither47;XL;$0.18;Pastry - Cheese Baked Scones
+dtilt48;3XL;$9.39;Iced Tea Concentrate
+hheskin49;XS;$1.25;Cake - French Pear Tart
+gwilmott4a;XL;$7.13;Flour - Chickpea
+ddericut4b;M;$5.73;Chocolate - White
+atarplee4c;XL;$4.89;Scallops 60/80 Iqf
+rberre4d;2XL;$6.63;Pork - Loin, Boneless
+pfirman4e;M;$1.20;Sugar - Individual Portions
+rduiguid4f;3XL;$2.71;Octopus
+ashewsmith4g;XS;$1.12;Southern Comfort
+dklewer4h;L;$0.29;Napkin White - Starched
+ghyder4i;XL;$5.20;Remy Red
+ebrugh4j;M;$3.40;Sprouts - Peppercress
+cvanyarkin4k;L;$0.40;Trout - Rainbow, Frozen
+aduckhouse4l;XL;$8.08;Hot Chocolate - Individual
+tfontanet4m;XL;$6.37;Sauce - Demi Glace
+mcallen4n;3XL;$1.74;Mix - Cappucino Cocktail
+yheamus4o;XS;$4.21;Pie Shells 10
+mgwinnett4p;3XL;$0.58;Oil - Safflower
+gsussex4q;XS;$2.46;Puree - Kiwi
+cwinckworth4r;L;$4.03;Kale - Red
+cscutter4s;XS;$6.82;Pur Source
+cgillio4t;XL;$7.51;Compound - Strawberry
+ddighton4u;3XL;$2.45;Cheese - Parmigiano Reggiano
+skembrey4v;3XL;$1.27;Wine - White, Mosel Gold
+severard4w;S;$0.69;Tomatoes - Yellow Hot House
+hummfrey4x;3XL;$0.57;Sage - Ground
+eparkyn4y;XL;$7.97;Crackers Cheez It
+tapedaile4z;XS;$6.28;Gooseberry
+fortiger50;M;$4.87;Pepper - White, Ground
+fdyzart51;L;$6.62;Rice - Aborio
+mchoulerton52;XL;$0.81;Bread - Italian Sesame Poly
+geastgate53;XS;$7.63;Clams - Bay
+msparshett54;M;$9.46;Creme De Menth - White
+adelaeglise55;XL;$2.10;Flour - Teff
+breven56;3XL;$3.92;Pail - 4l White, With Handle
+asandeman57;M;$5.44;Ecolab - Power Fusion
+aducker58;XS;$8.78;Lettuce - Iceberg
+dcropton59;3XL;$7.17;Vodka - Hot, Lnferno
+aminshall5a;S;$0.26;Cream Of Tartar
+ieasseby5b;XS;$3.33;V8 - Tropical Blend
+rcordel5c;S;$1.44;Crab - Meat Combo
+atwycross5d;XL;$3.30;Muffin - Mix - Creme Brule 15l
+amcglade5e;L;$0.99;Juice - Cranberry, 341 Ml
+fjakoub5f;L;$0.71;Ginsing - Fresh
+jzuppa5g;M;$8.97;Peas - Pigeon, Dry
+cgledstane5h;S;$3.89;Juice - Ocean Spray Kiwi
+cvallens5i;M;$1.73;Beef - Ground Medium
+pclausen5j;L;$6.76;Egg Patty Fried
+kfacher5k;3XL;$2.62;Higashimaru Usukuchi Soy
+zledford5l;3XL;$1.68;Bread - French Stick
+fpischoff5m;3XL;$7.51;Chips - Potato Jalapeno
+zfoulds5n;S;$7.77;Latex Rubber Gloves Size 9
+cmeller5o;S;$9.69;Wine - Guy Sage Touraine
+dbickerstaffe5p;L;$4.56;Tart - Pecan Butter Squares
+faddlestone5q;XS;$2.97;Soup V8 Roasted Red Pepper
+growlinson5r;M;$4.96;Bar Special K
+jcanfield5s;L;$4.61;Pastry - Baked Scones - Mini
+vberick5t;3XL;$2.91;Chocolate Bar - Coffee Crisp
+gborgbartolo5u;L;$6.98;Plasticspoonblack
+mmcglone5v;3XL;$7.84;Cherries - Bing, Canned
+zfrost5w;L;$0.49;Lemonade - Natural, 591 Ml
+aludy5x;2XL;$7.17;Flax Seed
+egue5y;2XL;$0.73;Pickle - Dill
+abaus5z;XL;$6.67;Bagelers
+limpleton60;3XL;$7.40;Oil - Olive
+ymuge61;2XL;$9.70;Hickory Smoke, Liquid
+bedmonds62;L;$5.15;Ecolab Crystal Fusion
+kbardnam63;S;$2.04;Fish - Artic Char, Cold Smoked
+mgeorgescu64;3XL;$1.56;Butter - Salted, Micro
+pdrissell65;2XL;$6.04;Flour - So Mix Cake White
+dinnerstone66;L;$3.63;Potatoes - Peeled
+askippon67;L;$3.34;Pastry - Plain Baked Croissant
+ljackalin68;3XL;$8.87;Nut - Chestnuts, Whole
+vlettley69;3XL;$4.32;Soupcontfoam16oz 116con
+istraine6a;L;$3.16;Rabbit - Whole
+btottie6b;L;$4.24;Turkey - Oven Roast Breast
+slink6c;XL;$4.48;Coffee Decaf Colombian
+akibbee6d;3XL;$6.39;Dried Peach
+dsherbrooke6e;2XL;$1.94;Rum - Dark, Bacardi, Black
+emegroff6f;XS;$6.02;Pomegranates
+kwalder6g;S;$3.69;Lettuce - Lolla Rosa
+sdesesquelle6h;3XL;$4.79;Eel Fresh
+csamwayes6i;2XL;$9.64;Cake - Night And Day Choclate
+vboays6j;XL;$1.52;Clams - Canned
+asmillie6k;2XL;$3.30;Apples - Sliced / Wedge
+scovell6l;XL;$1.72;Juice - V8, Tomato
+awhate6m;S;$5.69;Split Peas - Yellow, Dry
+mhandasyde6n;XS;$6.79;Maple Syrup
+wmolson6o;L;$5.13;Dragon Fruit
+rarmitage6p;2XL;$7.44;Bread - Sour Batard
+tgoldstraw6q;M;$6.65;Chips - Doritos
+hwallentin6r;S;$7.73;Galliano
+isnape6s;XS;$6.48;Dikon
+abutchard6t;2XL;$3.11;Lamb - Rack
+iharrington6u;S;$0.91;Mcguinness - Blue Curacao
+omosby6v;M;$0.23;Water - Spring Water, 355 Ml
+nitzhayek6w;S;$6.90;Mustard - Dijon
+lminette6x;2XL;$0.72;Flavouring - Orange
+mcholomin6y;S;$9.42;Wine - Two Oceans Sauvignon
+dstutter6z;XL;$9.47;Wine - Spumante Bambino White
+dpichmann70;L;$9.34;Soup - Tomato Mush. Florentine
+hpollard71;XS;$1.09;Soup - Campbells Beef Noodle
+dmcgaughay72;3XL;$4.80;Oil - Food, Lacquer Spray
+fminshall73;2XL;$0.17;Chicken Breast Halal
+mpargetter74;3XL;$3.18;The Pop Shoppe - Black Cherry
+bdockwra75;M;$1.88;Nacho Chips
+mryrie76;3XL;$6.85;Fish - Halibut, Cold Smoked
+cradmer77;XL;$7.10;Beef - Rib Roast, Cap On
+hholdren78;XS;$1.66;Pernod
+rlenham79;M;$5.76;Tea - Orange Pekoe
+dpurcell7a;M;$6.86;Garbage Bags - Black
+ihaward7b;L;$5.85;Bread Cranberry Foccacia
+lchaffyn7c;S;$2.72;Wild Boar - Tenderloin
+alabuschagne7d;3XL;$9.76;Octopus
+mneesam7e;2XL;$7.32;C - Plus, Orange
+alamberto7f;2XL;$3.10;Pie Box - Cello Window 2.5
+lshermar7g;XS;$2.51;Beef - Montreal Smoked Brisket
+gcoverley7h;S;$2.06;Cheese - Bakers Cream Cheese
+mworwood7i;XL;$1.92;Oil - Food, Lacquer Spray
+emaltman7j;2XL;$9.92;Bar Energy Chocchip
+byetton7k;2XL;$1.21;Wine - Balbach Riverside
+iwyatt7l;3XL;$9.50;Ginger - Pickled
+rellson7m;2XL;$5.58;Chocolate - Semi Sweet
+uwoehler7n;XS;$6.88;Pheasants - Whole
+slembrick7o;L;$7.26;Wine - Mondavi Coastal Private
+rspir7p;XL;$5.55;Soy Protein
+gmathiot7q;2XL;$5.85;Turkey - Breast, Boneless Sk On
+ebeneyto7r;3XL;$0.29;Eggroll
+bjanek7s;XS;$9.23;Appetizer - Southwestern
+mnend7t;3XL;$8.24;Bagelers - Cinn / Brown
+rkelleway7u;M;$9.30;Quail - Whole, Boneless
+dgradon7v;XS;$6.60;Bread - Roll, Whole Wheat
+groskam7w;2XL;$8.11;Tuna - Canned, Flaked, Light
+ndukes7x;M;$8.20;Nut - Pecan, Pieces
+driby7y;3XL;$5.26;Pork - Back Ribs
+froyste7z;S;$7.13;Garbage Bag - Clear
+amusker80;S;$5.02;Extract - Lemon
+mwhitehouse81;XL;$2.15;Turkey - Ground. Lean
+kmouse82;XL;$2.69;Lettuce - Spring Mix
+wirce83;L;$1.63;Veal - Inside Round / Top, Lean
+vwickendon84;3XL;$0.60;Beef Tenderloin Aaa
+fwray85;2XL;$2.86;Anchovy In Oil
+mrealff86;2XL;$7.31;Pastry - Banana Muffin - Mini
+ceteen87;XS;$5.68;Food Colouring - Pink
+tplaistowe88;3XL;$10.00;Wine - Sicilia Igt Nero Avola
+idebow89;M;$1.74;Appetizer - Lobster Phyllo Roll
+gbrumwell8a;2XL;$7.85;Butter Balls Salted
+rvann8b;L;$1.89;Wine - Cotes Du Rhone
+jchancelier8c;XL;$1.92;Pineapple - Golden
+ftroctor8d;2XL;$6.95;Pepper - Paprika, Spanish
+hstandley8e;3XL;$0.06;White Baguette
+mrowsel8f;2XL;$5.62;Jam - Apricot
+econew8g;XS;$8.03;Smoked Tongue
+avassall8h;XL;$0.04;Soup - Campbells Chili Veg
+ohawkey8i;L;$3.24;Tomatillo
+rcampes8j;3XL;$9.87;Salt And Pepper Mix - White
+jpriddle8k;3XL;$2.32;Wine - Fontanafredda Barolo
+lpantlin8l;3XL;$2.81;Bread - Petit Baguette
+oslarke8m;M;$7.02;Chickensplit Half
+tcoffey8n;S;$1.28;Uniform Linen Charge
+emacane8o;3XL;$6.91;Rosemary - Primerba, Paste
+mseyffert8p;XS;$1.82;Shrimp - Black Tiger 6 - 8
+tisaaksohn8q;3XL;$8.11;Oil - Margarine
+agoold8r;3XL;$8.99;Chips - Miss Vickies
+mwilkenson8s;XL;$0.49;Canada Dry
+asallter8t;2XL;$1.43;Swordfish Loin Portions
+trafferty8u;S;$7.59;Muffin Mix - Oatmeal
+bbrockie8v;S;$8.22;Jerusalem Artichoke
+vkelle8w;XS;$6.50;Orange - Tangerine
+kbrinded8x;S;$3.58;Pork - Sausage Casing
+kcornew8y;2XL;$5.56;Bagel - Everything Presliced
+cbruckenthal8z;XS;$1.73;Bacardi Limon
+jsyres90;2XL;$8.00;Pickle - Dill
+gilyasov91;XS;$1.34;Beef - Tenderloin Tails
+randino92;2XL;$7.94;Island Oasis - Banana Daiquiri
+jclemanceau93;2XL;$9.95;Wasabi Powder
+ttoothill94;XS;$2.75;Extract Vanilla Pure
+iolivari95;2XL;$5.46;Bread - Malt
+jspraberry96;3XL;$4.84;Mackerel Whole Fresh
+cogers97;3XL;$7.40;Pork - Suckling Pig
+bprine98;2XL;$2.11;Dill - Primerba, Paste
+mbowling99;XS;$6.52;Mushroom - Enoki, Fresh
+tdusting9a;L;$5.83;Cake - Cake Sheet Macaroon
+hcarloni9b;2XL;$1.96;Sage Ground Wiberg
+jsherel9c;XS;$9.49;Fruit Salad Deluxe
+ggatch9d;L;$7.58;Tuna - Loin
+hgrimshaw9e;M;$5.35;Sauce - Thousand Island
+gdober9f;2XL;$8.97;White Fish - Filets
+eosgorby9g;L;$6.53;Towel - Roll White
+mdeware9h;2XL;$3.07;Coconut - Shredded, Unsweet
+kmelland9i;2XL;$2.88;Cherries - Fresh
+edevaar9j;M;$1.34;Quail - Whole, Bone - In
+wpennycock9k;3XL;$4.68;Buffalo - Short Rib Fresh
+hsteadman9l;2XL;$6.64;Beef - Tenderloin
+gcaulcutt9m;XS;$7.78;Table Cloth 62x120 Colour
+apover9n;S;$8.50;Sambuca - Opal Nera
+rcode9o;XL;$6.42;Oregano - Fresh
+kdearden9p;XS;$9.25;Puree - Mango
+mgatty9q;XL;$5.81;Langers - Cranberry Cocktail
+ipowter9r;XL;$2.39;Huck White Towels
+hcombe9s;M;$8.43;Lady Fingers
+tuden9t;2XL;$3.04;Lemonade - Natural, 591 Ml
+vboken9u;S;$2.76;Soup - Campbells Beef Stew
+mnorthfield9v;L;$3.99;Pork Salted Bellies
+rbutt9w;3XL;$0.30;Rice - Long Grain
+sheminsley9x;XS;$5.39;Onions - Dried, Chopped
+shundell9y;XS;$1.42;Dill - Primerba, Paste
+rbanville9z;XS;$7.69;Crab - Soft Shell
+ledwardesa0;2XL;$7.07;Coconut - Shredded, Sweet
+frutleya1;S;$4.88;Avocado
+kfausseta2;2XL;$8.16;Chicken - Whole Roasting
+cbasshama3;M;$2.89;Jam - Raspberry,jar
+lthirsta4;S;$1.47;Red Pepper Paste
+cgiordanoa5;S;$3.06;Quiche Assorted
+mmcconnala6;2XL;$6.62;Pork - European Side Bacon
+jmackalla7;3XL;$2.97;Garam Masala Powder
+swealda8;3XL;$3.82;Island Oasis - Banana Daiquiri
+cgerardeauxa9;S;$6.98;Tea - Herbal Orange Spice
+tjouningaa;3XL;$9.08;Flower - Dish Garden
+sfeeheryab;M;$6.93;Pastry - Carrot Muffin - Mini
+conionac;XL;$6.02;Pasta - Penne Primavera, Single
+doquinad;XL;$1.06;Nantucket - Pomegranate Pear
+lmcgreyae;M;$7.94;Cheese - Cream Cheese
+lbearsmoreaf;S;$8.55;Red Snapper - Fresh, Whole
+oacresag;3XL;$8.84;True - Vue Containers
+rbrightyah;XS;$6.23;Cheese - Cheddar With Claret
+asustinsai;3XL;$5.99;Mangostein
+kcholominaj;XS;$7.67;Macaroons - Homestyle Two Bit
+jchippsak;L;$2.03;Sauce - Sesame Thai Dressing
+moakesal;3XL;$4.78;Chicken - Leg, Boneless
+frosoneam;L;$5.50;Tea - Mint
+smaplesdenan;M;$1.92;Ham - Proscuitto
+jthalmannao;XS;$0.70;Beets - Mini Golden
+lhudelap;XS;$5.38;Plate Foam Laminated 9in Blk
+ktwelvetreesaq;L;$6.36;Flower - Potmums
+pgrimsterar;L;$1.70;Salmon Steak - Cohoe 8 Oz
+ebloomfieldas;L;$4.65;Tray - 12in Rnd Blk
+wspieghtat;M;$4.83;Hersey Shakes
+wtomaszewiczau;M;$8.74;Cheese - La Sauvagine
+cczaplaav;S;$5.28;Wine - Delicato Merlot
+nzupaaw;3XL;$2.91;Crush - Cream Soda
+dbeadelax;S;$7.12;Tea - Mint
+jmckeownay;S;$0.28;Wine - Rhine Riesling Wolf Blass
+jgogayaz;3XL;$8.81;Stock - Beef, White
+tboswellb0;XS;$3.27;Raisin - Golden
+arenehanb1;XL;$5.19;C - Plus, Orange
+vsuttillb2;XL;$3.78;Smirnoff Green Apple Twist
+dbalconb3;S;$2.99;Flavouring Vanilla Artificial
+aattrydeb4;L;$6.29;Wine - Niagara Peninsula Vqa
+mswadenb5;XL;$3.61;Coffee - Flavoured
+jglandonb6;M;$3.34;Foil Wrap
+atrimmillb7;XS;$7.88;Brocolinni - Gaylan, Chinese
+sfearnsidesb8;M;$4.80;Soup - Campbells, Lentil
+bstempeb9;L;$3.01;Wine - Niagara,vqa Reisling
+bneadsba;M;$7.35;Vermacelli - Sprinkles, Assorted
+gannesleybb;S;$4.24;Fudge - Cream Fudge
+kpinkstonebc;M;$5.72;Beets - Candy Cane, Organic
+kcraggbd;XS;$1.84;Cheese - La Sauvagine
+avaneybe;XL;$4.00;Appetiser - Bought
+cdegouybf;M;$1.53;Scallops - U - 10
+fstanneringbg;XL;$7.61;Cherries - Bing, Canned
+cpowtonbh;2XL;$6.71;Meldea Green Tea Liquor
+rtromanbi;S;$3.99;Pepper - Black, Crushed
+frousbj;L;$2.95;Apples - Spartan
+edasbk;XS;$6.49;Tomato - Peeled Italian Canned
+tsjostrombl;2XL;$6.46;Rum - Cream, Amarula
+jbatchellorbm;2XL;$9.77;Wine - Niagara Peninsula Vqa
+ajarredbn;XS;$9.13;Hersey Shakes
+lhaggathbo;M;$4.82;Sprouts - Baby Pea Tendrils
+ssargantbp;2XL;$3.79;Kumquat
+mbrasseurbq;3XL;$7.00;Fond - Neutral
+cbaracloughbr;S;$4.91;Table Cloth 54x72 White
+cmuffordbs;3XL;$7.59;Pomegranates
+ecollissbt;XS;$6.15;Milk - 2% 250 Ml
+klystonbu;M;$7.32;Chicken - Base
+bchurchwardbv;3XL;$1.94;Lettuce - Arugula
+nkeransbw;S;$4.99;Wine - Red, Mosaic Zweigelt
+sambrogiobx;L;$3.12;Wine - Rioja Campo Viejo
+ygisbournby;3XL;$5.55;Sauce - White, Mix
+jhuegettbz;XL;$5.02;Soup - Boston Clam Chowder
+vraisonc0;L;$0.97;Sauce - Chili
+wfeakec1;L;$2.80;Vodka - Moskovskaya
+rtitcombc2;M;$6.00;Bread Base - Toscano
+msygrovesc3;M;$0.83;Cheese - St. Paulin
+jstewartsonc4;XS;$2.91;Muffin Hinge 117n
+lasselc5;L;$1.88;Wild Boar - Tenderloin
+rwoolamc6;L;$8.90;Mushroom - King Eryingii
+aoslerc7;M;$3.50;Plastic Wrap
+dkeenlysidec8;S;$1.41;Wine - White Cab Sauv.on
+praikerc9;M;$4.31;Sprouts - Onion
+hgenteryca;L;$7.86;Cheese - Havarti, Salsa
+ifitzpayncb;M;$9.61;Beef - Tenderloin Tails
+aweskercc;S;$9.89;Wine - Riesling Dr. Pauly
+lluttycd;M;$3.25;Wine - Red, Pelee Island Merlot
+ffrissellce;XL;$1.17;Cheese - Stilton
+sfierrocf;S;$3.10;Chivas Regal - 12 Year Old
+bblaneycg;3XL;$9.74;Wine - Sauvignon Blanc
+lcheyneych;M;$3.37;Bagel - Sesame Seed Presliced
+aaspinwallci;XS;$8.27;Broom - Push
+gbullioncj;2XL;$0.51;Ham Black Forest
+amollenck;2XL;$9.06;Muffin - Bran Ind Wrpd
+ndoegcl;XL;$4.64;Ocean Spray - Kiwi Strawberry
+lfarnworthcm;M;$4.30;Brocolinni - Gaylan, Chinese
+tdietzlercn;2XL;$3.61;Wine - Red, Antinori Santa
+fstanlikeco;2XL;$5.88;Vinegar - White
+jcatherickcp;XL;$5.35;Butter - Unsalted
+tzimmercq;XL;$6.80;Crush - Cream Soda
+kcalkincr;2XL;$1.64;Wine - Penfolds Koonuga Hill
+fsethcs;M;$8.33;Peas Snow
+wolorenshawct;XS;$6.45;Ice Cream Bar - Oreo Cone
+lesbycu;S;$6.49;Maintenance Removal Charge
+rmurfillcv;L;$8.03;Pork - Ham, Virginia
+dwholesworthcw;2XL;$4.39;Cod - Black Whole Fillet
+ematoshincx;L;$8.37;Wasabi Powder
+bbirtwistlecy;2XL;$7.83;Soup - Campbells
+lyukhnevcz;L;$2.27;Seedlings - Buckwheat, Organic
+npenderedd0;3XL;$5.94;Bag - Bread, White, Plain
+bstronachd1;3XL;$7.06;Container - Foam Dixie 12 Oz
+auriend2;XL;$6.76;Soup - Campbells - Chicken Noodle
+tharriotd3;XS;$2.79;Wine - Marlbourough Sauv Blanc
+bmartindaled4;XL;$3.52;Potatoes - Yukon Gold, 80 Ct
+tklaussend5;S;$6.34;Dip - Tapenade
+pserrelsd6;2XL;$8.89;Sugar - Invert
+fhakonsend7;M;$4.27;Cheese - Mozzarella, Shredded
+cvillaged8;L;$4.99;Carbonated Water - Cherry
+abowersd9;XL;$6.17;Sauce - Marinara
+wmullaneyda;M;$5.07;Grouper - Fresh
+memanueledb;M;$8.37;Sambuca - Ramazzotti
+kurridgedc;M;$6.92;Cabbage - Nappa
+apeschetdd;S;$6.79;Veal - Brisket, Provimi,bnls
+ckebbellde;3XL;$7.25;Soup - Campbells, Creamy
+etomasellodf;XL;$7.23;Lettuce - California Mix
+hfraniesdg;2XL;$9.54;Soup - Tomato Mush. Florentine
+bchanderdh;2XL;$2.01;Garlic - Primerba, Paste
+cdooherdi;3XL;$6.35;Doilies - 8, Paper
+kthorntondj;L;$8.63;Milk - 2% 250 Ml
+gboornedk;XL;$5.79;Beer - Maudite
+dbodycotedl;L;$4.59;Soup - Verve - Chipotle Chicken
+caronindm;XS;$4.31;Cookie Double Choco
+okalbdn;L;$1.31;Shrimp - 150 - 250
+ikhrishtafovichdo;S;$8.28;Mustard - Dry, Powder
+bkarpeevdp;2XL;$6.76;Coffee Decaf Colombian
+rbaigriedq;3XL;$8.51;Steamers White
+odinningtondr;3XL;$4.51;Tia Maria
+ylinnardds;3XL;$1.48;Syrup - Monin - Blue Curacao
+mebbettsdt;L;$6.75;Syrup - Chocolate
+sfilochovdu;S;$6.83;Gelatine Leaves - Envelopes
+lsimandv;S;$7.93;Pasta - Rotini, Dry
+bbyarddw;XS;$6.24;Butter - Pod
+ndanherdx;S;$9.36;Blueberries
+cbruyettdy;XS;$4.06;Tofu - Soft
+cporcherdz;L;$2.25;Cakes Assorted
+ncottone0;XL;$2.26;Nantucket - Pomegranate Pear
+kpellewe1;S;$2.42;Ecolab - Medallion
+tdwyre2;L;$2.00;Asparagus - White, Canned
+dpinyone3;XL;$1.22;External Supplier
+dtyase4;XS;$9.17;Chevril
+dbollarde5;L;$4.61;Salami - Genova
+tcavile6;M;$4.52;Hummus - Spread
+cshakesbye7;XS;$4.82;Potatoes - Mini Red
+piliffee8;M;$1.16;Vodka - Hot, Lnferno
+squigleye9;XL;$8.09;Sauce - Hoisin
+mfenlonea;XS;$7.42;Longos - Grilled Chicken With
+pmccombeb;XL;$7.62;Smoked Tongue
+eparmiterec;3XL;$2.58;Chinese Foods - Chicken
+tvickered;XL;$9.85;Danishes - Mini Raspberry
+cvaseyee;L;$2.27;Lobster - Cooked
+mtatheref;L;$4.98;Crab Brie In Phyllo
+bharveyeg;XS;$0.20;Wine - Rubyport
+jfullickeh;XS;$0.27;Beer - Muskoka Cream Ale
+msoffeei;3XL;$0.62;Milk - Skim
+dvassayej;XL;$2.79;Ranchero - Primerba, Paste
+jjonathonek;3XL;$6.84;Juice - Cranberry 284ml
+ncowdryel;2XL;$2.32;Pepper - Red Thai
+rlemanem;M;$0.20;Bonito Flakes - Toku Katsuo
+cfeildenen;S;$9.89;Eggplant - Asian
+irodrigeo;M;$7.31;Teriyaki Sauce
+tliggensep;3XL;$6.57;Potatoes - Pei 10 Oz
+gbaueq;L;$7.01;Soup - Campbellschix Stew
+dvanmerweer;L;$0.45;Marjoram - Fresh
+jberstones;XL;$3.22;Sherbet - Raspberry
+cstockenet;L;$6.00;Chicken - Whole Roasting
+wpeileeu;M;$7.28;Ice Cream Bar - Hageen Daz To
+rlittleproudev;XL;$1.34;Oil - Cooking Spray
+jjonkew;2XL;$8.54;Cookie Chocolate Chip With
+lvakhlovex;M;$3.54;Breadfruit
+lbreffittey;XS;$2.40;Dish Towel
+falbasiniez;2XL;$6.63;Split Peas - Yellow, Dry
+jdevillef0;L;$6.69;Lamb - Loin Chops
+kacomf1;M;$7.70;Lemon Pepper
+ntedstonef2;XL;$0.91;Wasabi Paste
+grobelowf3;S;$0.72;Cookies - Englishbay Oatmeal
+ocalderonellof4;S;$9.20;Pesto - Primerba, Paste
+jlakelandf5;M;$6.48;Cheese - Brie,danish
+kwandlessf6;S;$3.59;Cheese - Wine
+sevamyf7;XS;$7.92;Cake Circle, Paprus
+scherryf8;XL;$7.22;Bay Leaf Fresh
+borgillf9;3XL;$8.27;Water - Aquafina Vitamin
+cnayerfa;2XL;$9.54;Kellogs All Bran Bars
+lcassidyfb;2XL;$7.49;Sardines
+cwoolhousefc;M;$4.98;Potato - Sweet
+idelmontifd;XL;$4.55;Sauce - White, Mix
+gserckfe;XS;$9.37;Mushrooms - Black, Dried
+cdowallff;M;$0.39;Oil - Grapeseed Oil
+apophamfg;3XL;$2.26;Butter Balls Salted
+jsinkinfh;L;$6.67;Wine - Magnotta - Cab Sauv
+cduckerfi;2XL;$8.87;Salmon - Atlantic, Fresh, Whole
+dpaulinofj;3XL;$2.16;Squash - Acorn
+ccowdenfk;2XL;$7.87;Coffee - Beans, Whole
+pprefl;2XL;$5.13;Beef - Texas Style Burger
+gshanklinfm;L;$1.56;Soup - Campbells
+beaglestonefn;XS;$1.64;Trout Rainbow Whole
+gspinneyfo;3XL;$4.59;Veal - Slab Bacon
+bseymerfp;L;$2.25;Foam Dinner Plate
+tbaptistafq;3XL;$2.64;Cheese Cloth No 60
+cbloxamfr;S;$4.57;Veal - Heart
+lfilippellofs;XL;$3.52;Halibut - Fletches
+mtixallft;L;$6.48;Yogurt - Raspberry, 175 Gr
+aaultfu;L;$0.50;Honey - Comb
+mdallistonfv;XS;$3.12;Cake - Cake Sheet Macaroon
+djacobsohnfw;XS;$0.89;Banana
+rburdsfx;3XL;$1.30;Oven Mitt - 13 Inch
+fstennetfy;L;$8.19;Compound - Strawberry
+ageorgelfz;3XL;$8.01;Bag Stand
+gmoohang0;3XL;$6.04;Bread - Assorted Rolls
+sattreedg1;3XL;$7.83;Appetizer - Veg Assortment
+agimblettg2;XS;$6.98;Mix - Cocktail Ice Cream
+dplackstoneg3;2XL;$4.97;Pears - Bosc
+nploseg4;L;$6.42;Piping - Bags Quizna
+ptroyg5;M;$7.94;Ham - Cooked
+clagdeg6;2XL;$8.18;Chicken - Livers
+bhimpsong7;M;$4.36;Red Pepper Paste
+vstainingg8;3XL;$5.46;V8 Pet
+obruinemanng9;XS;$0.59;Silicone Paper 16.5x24
+jmccleanga;3XL;$9.05;Banana - Green
+mnysgb;M;$7.54;Veal - Nuckle
+mbumpasgc;XS;$3.77;Asparagus - Green, Fresh
+mwellbankgd;2XL;$0.50;Canada Dry
+ujakubczykge;XS;$2.30;Plastic Arrow Stir Stick
+mdipietrogf;L;$7.56;Leeks - Baby, White
+gfoxcroftgg;3XL;$3.37;Ranchero - Primerba, Paste
+dtomkissgh;XL;$4.04;Lettuce - Mini Greens, Whole
+abrillemangi;S;$1.47;Yeast Dry - Fermipan
+nlivingstongj;XS;$8.12;Soup - Knorr, Chicken Gumbo
+bclimsongk;M;$5.50;Brownies - Two Bite, Chocolate
+tespinosagl;3XL;$7.49;Tendrils - Baby Pea, Organic
+lpegdengm;M;$6.58;Pastry - Chocolate Marble Tea
+mbellongn;XS;$3.38;Rum - Spiced, Captain Morgan
+ahuikerbygo;S;$1.74;Wine - Red, Metus Rose
+mdrakegp;L;$8.07;Longan
+msmallmangq;XL;$2.35;Vinegar - Red Wine
+cbuddleighgr;L;$1.52;Guava
+pilyinykhgs;3XL;$5.75;Flower - Daisies
+hbezantgt;L;$2.78;Tart Shells - Sweet, 3
+mcreamergu;XS;$7.81;Chicken Giblets
+nniblogv;3XL;$5.14;Hersey Shakes
+mnovillgw;M;$5.33;Wine - Semi Dry Riesling Vineland
+lkaysorgx;L;$8.49;Lamb - Shoulder, Boneless
+vpeppardgy;XS;$4.45;Onions - White
+hogdengz;M;$3.20;Smoked Paprika
+egatesh0;L;$9.40;Fondant - Icing
+mwaitlandh1;L;$8.81;Soup - Campbells Asian Noodle
+tmcgaheyh2;XL;$6.32;Veal - Round, Eye Of
+gblitzerh3;3XL;$3.78;Cheese - Swiss
+dmatheveth4;M;$2.67;Curry Powder
+fsaintepaulh5;L;$2.83;Pasta - Lasagne, Fresh
+cpenniellh6;XL;$2.90;Rum - Spiced, Captain Morgan
+rridgewayh7;3XL;$1.65;Nut - Hazelnut, Whole
+iaykroydh8;XL;$3.40;Glycerine
+iyeellh9;S;$4.15;The Pop Shoppe - Lime Rickey
+amcpaikeha;XL;$8.40;Crush - Orange, 355ml
+cmatthiaehb;3XL;$9.29;Longos - Grilled Chicken With
+bderlehc;3XL;$4.95;Pepper - Black, Ground
+agloveshd;XS;$8.46;Spice - Chili Powder Mexican
+hvedntyevhe;M;$8.81;Sponge Cake Mix - Vanilla
+bchazellehf;S;$3.88;Carbonated Water - Blackberry
+hnuccitellihg;L;$7.30;Soup - Clam Chowder, Dry Mix
+planceterhh;3XL;$9.43;Wine - Penfolds Koonuga Hill
+jpumfreyhi;2XL;$2.03;Bread - Pullman, Sliced
+gdjurevichj;3XL;$1.64;Bread - French Stick
+kpeasnonehk;XS;$2.62;Chick Peas - Dried
+fslyfordhl;L;$0.13;Bar Energy Chocchip
+hmctavishhm;2XL;$7.14;Lettuce - Spring Mix
+acowlardhn;S;$6.04;Tea - Earl Grey
+gjeaneauho;XL;$7.79;Clams - Bay
+sslimmhp;3XL;$5.30;Ham - Cooked Italian
+ofloundershq;L;$0.87;Soup - Chicken And Wild Rice
+hstaileyhr;S;$6.55;Green Scrubbie Pad H.duty
+smilwardhs;M;$6.26;Lemonade - Natural, 591 Ml
+bbuseht;XS;$9.58;Shrimp - Black Tiger 13/15
+ggaffneyhu;XS;$8.28;Marzipan 50/50
+wcharnockhv;3XL;$4.13;Onions - Vidalia
+zdahlerhw;XL;$7.47;Oyster - In Shell
+gmccoidhx;L;$3.48;Pop - Club Soda Can
+rashbridgehy;L;$0.66;Chicken Thigh - Bone Out
+rbabehz;S;$5.02;Tortillas - Flour, 10
+agraveneyi0;XL;$1.36;Roe - White Fish
+mekinsi1;L;$2.72;Oats Large Flake
+jodochertyi2;M;$2.78;Salt - Table
+kmccotteri3;M;$7.22;Cognac - Courvaisier
+twasei4;3XL;$4.81;Jolt Cola
+fdonneelyi5;L;$9.34;Wine - Kwv Chenin Blanc South
+lcloonani6;S;$6.30;Bread - Bistro Sour
+bslidesi7;M;$6.31;Broom - Corn
+ldykei8;L;$2.97;Lid - 16 Oz And 32 Oz
+mbritti9;XS;$9.82;Foil - 4oz Custard Cup
+naspleia;XL;$7.19;Gatorade - Xfactor Berry
+ceyreib;S;$3.59;Cornstarch
+njouanetic;S;$5.32;Dried Apple
+bzarfatiid;XS;$2.95;Soup V8 Roasted Red Pepper
+fovidie;3XL;$4.67;Appetizer - Smoked Salmon / Dill
+adubbinif;M;$8.22;Bread - Bistro Sour
+csimukovig;XS;$4.04;Stock - Fish
+driccardiih;XL;$2.70;Island Oasis - Peach Daiquiri
+mzuanelliii;3XL;$5.60;Bread - Rye
+uilymanovij;XS;$9.81;Beef - Ground, Extra Lean, Fresh
+lmearsik;XL;$7.93;Bar Nature Valley
+glosseljongil;XL;$6.00;Turkey - Ground. Lean
+cdambrogioim;L;$8.22;Cheese - Valancey
+ztallisin;S;$3.88;Beef Tenderloin Aaa
+mshervingtonio;2XL;$5.58;Cheese - Brie,danish
+cbourneip;M;$7.47;Trout Rainbow Whole
+jlosselyongiq;2XL;$6.72;Five Alive Citrus
+cseakinir;XS;$4.92;Pork - Bacon, Sliced
+rjoriotis;XS;$0.08;Tilapia - Fillets
+hvillaltait;L;$2.35;Drambuie
+chindesiu;L;$9.63;Puree - Mango
+kwagerfieldiv;M;$5.85;Rabbit - Legs
+rmacieiczykiw;XS;$9.12;Table Cloth 62x114 Colour
+myoungerix;S;$1.71;Coffee - Frthy Coffee Crisp
+sjoskowicziy;XS;$4.89;Tomatoes Tear Drop
+lloffheadiz;3XL;$7.61;Pepper - Sorrano
+arockj0;XS;$1.99;Lamb - Whole Head Off,nz
+amoyseyj1;3XL;$3.43;Coffee - Espresso
+wsoreauj2;L;$6.38;Wine - Chardonnay South
+sledwichj3;3XL;$2.96;Pork - Caul Fat
+dwoolastonj4;XL;$7.57;Bread - Triangle White
+mblodgettj5;2XL;$3.78;Nut - Almond, Blanched, Ground
+mgerreltj6;XL;$7.67;Carbonated Water - Blackberry
+pputterillj7;M;$4.36;Beer - Sleemans Cream Ale
+bphayrej8;L;$6.37;Onions Granulated
+bgutmanj9;M;$0.18;Wine - Red, Pelee Island Merlot
+kfawksja;3XL;$6.01;Gin - Gilbeys London, Dry
+blaughlinjb;M;$6.73;Bananas
+cpeabodyjc;L;$8.23;Pepper - Orange
+rgunterjd;XS;$1.32;Beans - Turtle, Black, Dry
+amutlowje;L;$5.99;Pepsi, 355 Ml
+escobiejf;3XL;$7.21;Ranchero - Primerba, Paste
+gbrumwelljg;S;$1.10;Chinese Foods - Pepper Beef
+xwalthojh;3XL;$1.54;Cheese Cloth No 60
+mdrewittji;2XL;$4.46;Pepper - Black, Crushed
+eatchlyjj;M;$3.48;Wine - Vidal Icewine Magnotta
+abagshawjk;XS;$5.87;Beef - Tender Tips
+bbramalljl;2XL;$4.72;Lemonade - Mandarin, 591 Ml
+ftittajm;S;$4.54;Wasabi Paste
+ohaldenejn;3XL;$4.33;Pop - Club Soda Can
+lcammisjo;3XL;$3.27;Lettuce - Spring Mix
+scloyjp;2XL;$9.88;Fennel
+gcreanyjq;S;$7.33;Muffin Mix - Blueberry
+wblackbroughjr;S;$2.06;Higashimaru Usukuchi Soy
+ggiorgionijs;S;$7.21;Soupcontfoam16oz 116con
+adykinsjt;M;$5.31;Bread - French Stick
+smccallju;M;$7.15;Table Cloth 62x114 Colour
+xsimonyjv;L;$0.21;Wine - George Duboeuf Rose
+mdumberelljw;XL;$1.89;Ham Black Forest
+atowerseyjx;L;$8.70;Pasta - Lasagna, Dry
+mspriggingjy;XS;$2.41;Lettuce - Romaine, Heart
+rfalcojz;L;$5.04;Buttons
+dlarimerk0;XL;$9.87;Bagel - 12 Grain Preslice
+sraubenheimerk1;XL;$1.12;Quail - Jumbo
+sosoriok2;3XL;$9.35;Soup V8 Roasted Red Pepper
+gjumontk3;3XL;$9.69;Roe - Flying Fish
+dquestierk4;2XL;$3.65;Beef - Eye Of Round
+kdancyk5;XS;$0.64;Eggplant Italian
+jklimentyevk6;3XL;$7.89;Bread - Pita
+hgotthardk7;2XL;$8.10;Coffee Guatemala Dark
+emakerk8;L;$3.70;Lamb Shoulder Boneless Nz
+chexamk9;3XL;$1.71;Lighter - Bbq
+oredparthka;3XL;$6.31;Mikes Hard Lemonade
+ggreensetkb;XL;$1.07;Veal - Insides, Grains
+smelbertkc;XS;$3.72;Pork - Butt, Boneless
+ccarwardinekd;L;$7.07;Dish Towel
+rkaruske;3XL;$5.86;Cake - Bande Of Fruit
+hnorgankf;M;$6.55;Tarts Assorted
+mlalleykg;M;$3.20;Wine La Vielle Ferme Cote Du
+mpauluzzikh;XL;$8.88;Soup - Campbells, Lentil
+kohernki;S;$8.44;Tarragon - Primerba, Paste
+jbruntkj;3XL;$6.76;Juice - Apple 284ml
+vrizzellikk;XL;$7.81;Beef - Salted
+mvillierskl;XL;$5.72;Water Chestnut - Canned
+boxnamkm;XS;$2.82;Turkey - Whole, Fresh
+bdedenhamkn;L;$7.50;Meldea Green Tea Liquor
+lfrakeko;XS;$7.70;Wine - Rosso Del Veronese Igt
+alipsettkp;2XL;$4.47;Kohlrabi
+adarkinskq;L;$4.42;Onions - Green
+thasseykr;XS;$0.97;Cheese - Colby
+fmcilwraithks;S;$4.57;Cheese - St. Andre
+npetrosiankt;L;$3.63;Ginger - Fresh
+xvarneku;3XL;$8.17;Muffin Chocolate Individual Wrap
+sardleykv;XL;$8.33;Juice - Orange 1.89l
+bharrissonkw;XL;$3.72;Iced Tea - Lemon, 460 Ml
+rmcelhargykx;2XL;$8.33;Brocolinni - Gaylan, Chinese
+dwessellky;S;$8.83;Beans - Turtle, Black, Dry
+pdunstonekz;L;$3.99;Beer - Labatt Blue
+grankcoml0;2XL;$8.19;Lamb - Leg, Boneless
+jrapol1;2XL;$3.80;Fish - Artic Char, Cold Smoked
+rtupiel2;S;$9.57;Squid U5 - Thailand
+mterbeekl3;2XL;$6.40;Carroway Seed
+eraywoodl4;S;$2.56;Scrubbie - Scotchbrite Hand Pad
+dbecerill5;3XL;$2.58;Pasta - Fettuccine, Dry
+lbaxl6;2XL;$8.23;Shrimp - 16/20, Iqf, Shell On
+dcornelsl7;XL;$1.46;Sausage - Meat
+apettiferl8;XS;$2.39;Tart Shells - Sweet, 4
+ibowdidgel9;XS;$6.48;Gatorade - Lemon Lime
+mbulgenla;3XL;$5.98;Noodles - Steamed Chow Mein
+ccastellettilb;3XL;$8.81;Eggwhite Frozen
+ybridgenlc;2XL;$2.12;Mcguinness - Blue Curacao
+astiegarld;2XL;$4.42;Pasta - Fettuccine, Dry
+khumphrysle;XL;$9.52;Laundry - Bag Cloth
+bburneplf;S;$5.36;Cheese - Bakers Cream Cheese
+mprentylg;M;$4.43;Cleaner - Pine Sol
+scompsonlh;3XL;$1.06;Doilies - 8, Paper
+ealpineli;2XL;$7.71;Cleaner - Comet
+lmillbanklj;3XL;$2.85;Nectarines
+bwristlk;S;$3.88;Roe - Lump Fish, Black
+rcamellill;S;$1.51;Pasta - Cheese / Spinach Bauletti
+ahulstromlm;S;$9.01;Strawberries
+afathersln;XS;$9.39;Wasabi Paste
+dcarletonlo;L;$2.51;Sole - Dover, Whole, Fresh
+ebellaylp;S;$3.95;Wine - Red, Pelee Island Merlot
+bgirodierlq;XS;$9.96;Wine - Cave Springs Dry Riesling
+dklimkovlr;2XL;$4.47;Food Colouring - Blue
+finglisls;S;$7.40;Mop Head - Cotton, 24 Oz
+wbilbylt;3XL;$2.23;Dill - Primerba, Paste
+mbradforthlu;3XL;$6.27;Soup - Tomato Mush. Florentine
+kgoodliplv;S;$0.00;Shrimp, Dried, Small / Lb
+crawcliffelw;XS;$8.51;Soup - Campbells, Cream Of
+cbaldacchilx;L;$8.37;Wine - White, Concha Y Toro
+iscarlonly;XS;$0.40;Nut - Walnut, Chopped
+ndisburylz;L;$2.53;Veal - Osso Bucco
+ggeraudelm0;3XL;$3.64;Sugar - White Packet
+kladleym1;3XL;$0.63;Longos - Greek Salad
+aboswellm2;S;$0.46;Bacardi Raspberry
+astubbeleym3;S;$7.10;Lychee - Canned
+vsandlem4;2XL;$7.92;Soup - Campbells
+slambdonm5;M;$0.75;Rice - Aborio
+hmatoshinm6;XS;$0.50;Liners - Banana, Paper
+awickm7;XL;$3.74;Seedlings - Mix, Organic
+gdibblem8;L;$9.58;Flour - All Purpose
+isteljesm9;M;$4.82;Shrimp - Black Tiger 13/15
+rgiblingma;2XL;$4.20;Marzipan 50/50
+lnoonanmb;L;$2.64;Pail With Metal Handle 16l White
+qayllettmc;3XL;$6.75;Apple - Royal Gala
+nduhamelmd;XL;$3.76;The Pop Shoppe - Black Cherry
+rbulmanme;L;$0.63;Bagel - Whole White Sesame
+dmougeotmf;S;$1.63;Fireball Whisky
+trydeardmg;XL;$3.27;Bread Country Roll
+cdunkerleymh;L;$4.79;Container - Clear 32 Oz
+pthoumassonmi;3XL;$2.26;Shortbread - Cookie Crumbs
+codonnellymj;M;$6.63;Longos - Penne With Pesto
+jpietrowiczmk;XS;$6.15;Browning Caramel Glace
+mwebbbowenml;S;$8.19;Ice Cream - Super Sandwich
+ckensleymm;XL;$7.22;Bar Nature Valley
+cdurymn;3XL;$7.39;Bar - Sweet And Salty Chocolate
+ckeileymo;M;$8.33;Sour Puss Sour Apple
+calgarmp;XL;$9.37;Wine - Barbera Alba Doc 2001
+ostainsonmq;3XL;$7.34;Beer - Tetleys
+cdraiseymr;L;$6.51;Juice - Tomato, 48 Oz
+mcrankems;XL;$7.57;Cheese - Mozzarella, Shredded
+hdevitamt;M;$9.95;Carbonated Water - Peach
+skilvingtonmu;2XL;$4.22;Vinegar - Balsamic
+uyegorevmv;2XL;$9.21;Vaccum Bag - 14x20
+cminchermw;S;$6.58;Bacardi Breezer - Strawberry
+fgullickmx;XS;$8.40;Mustard - Individual Pkg
+cbaggelleymy;2XL;$8.29;Pepper - Jalapeno
+smollattmz;M;$1.77;Puree - Kiwi
+mloinsn0;XS;$9.08;Tuna - Fresh
+acauliern1;L;$1.19;Capers - Ox Eye Daisy
+nsextin2;L;$4.75;Shrimp - 16/20, Peeled Deviened
+fodonohuen3;XL;$0.61;Wine - Chablis J Moreau Et Fils
+aflooksn4;XL;$0.06;Jam - Apricot
+hleddyn5;3XL;$0.50;Cheese - Cheddar With Claret
+fcoen6;S;$2.35;Tomato Puree
+smccathayn7;2XL;$5.99;Flour - Strong Pizza
+abourn8;XS;$4.72;Flower - Commercial Bronze
+zebhardtn9;L;$5.97;Vodka - Lemon, Absolut
+msummerleyna;M;$1.87;Pork - Backfat
+lcheziernb;S;$5.30;Bag - Clear 7 Lb
+dweblingnc;M;$6.96;Lentils - Red, Dry
+djachimaknd;M;$0.96;V8 - Berry Blend
+kemblinne;L;$8.63;Garlic
+rsaysenf;XL;$6.60;Pear - Prickly
+mcongdonng;XS;$5.74;Island Oasis - Cappucino Mix
+pcubuzzinh;S;$1.33;Bag Stand
+mgawni;XL;$0.21;Avocado
+gbrissenj;S;$6.64;Cinnamon - Stick
+nstonhewernk;2XL;$6.47;Sausage - Chorizo
+wcouchanl;M;$2.76;Bar Energy Chocchip
+dwilkinsonnm;XS;$9.09;Magnotta Bel Paese Red
+cwasielewskinn;3XL;$3.67;Rice - Basmati
+kgutteridgeno;3XL;$9.81;Sauce - Bernaise, Mix
+rmcmychemnp;S;$0.51;Remy Red
+dhousonnq;XL;$4.53;Broom Handle
+hdepinnanr;XS;$3.12;Waffle Stix
+dfraryns;S;$1.19;Ice Cream - Fudge Bars
+abengoughnt;L;$1.39;Yeast Dry - Fermipan
+lhyndnu;L;$9.80;Ice Cream - Vanilla
+akleinberernv;2XL;$9.94;Venison - Ground
+hmillomnw;L;$5.30;Coffee - Flavoured
+jwhykenx;XL;$8.05;Salmon - Atlantic, No Skin
+vkelsonny;S;$2.51;Bandage - Flexible Neon
+tgelsthorpenz;S;$8.80;Jolt Cola - Red Eye
+mmaccartano0;2XL;$9.06;Lettuce - Green Leaf
+obreacheo1;S;$0.41;Nut - Hazelnut, Whole
+mgillilando2;XL;$4.56;Rabbit - Legs
+rchateo3;2XL;$7.13;Broom - Angled
+bfellneeo4;S;$3.15;Wine - Dubouef Macon - Villages
+asmallo5;S;$3.46;Easy Off Oven Cleaner
+cspracklino6;XL;$1.95;Filter - Coffee
+prupricho7;M;$5.52;Rum - Mount Gay Eclipes
+gvancasteleo8;S;$2.23;Quinoa
+fyekelo9;2XL;$9.43;Sausage - Breakfast
+dstockoeoa;3XL;$9.96;Shrimp - 16/20, Iqf, Shell On
+amcmahonob;S;$9.06;Pheasants - Whole
+ddearesoc;XL;$6.68;Cookie Dough - Double
+lscotterod;XL;$5.48;Chicken - Leg, Fresh
+elaidleroe;XL;$4.46;Artichokes - Jerusalem
+dwhittetof;XS;$5.79;Tea - Green
+gbuntonog;3XL;$0.88;Sauce - Ranch Dressing
+cvonderemptenoh;L;$4.60;Beef Tenderloin Aaa
+cwallsoi;2XL;$1.27;Veal - Osso Bucco
+lskeltonoj;L;$8.26;Vinegar - Tarragon
+bgodbertok;L;$3.07;Beer - Heinekin
+bcreggol;XL;$4.48;Wine - Piper Heidsieck Brut
+jguidottiom;3XL;$4.36;Bread - Pita
+ekeffordon;M;$1.87;Soup - Campbells Chili Veg
+fteesdaleoo;S;$8.11;Eggplant Oriental
+hheaterop;XS;$3.17;Shrimp - 150 - 250
+kmeelandoq;XL;$7.67;Foil - 4oz Custard Cup
+jdringor;2XL;$6.90;Beer - True North Strong Ale
+ademkeos;3XL;$3.01;Ginsing - Fresh
+nsieghartot;XL;$5.53;Pasta - Lasagna, Dry
+lollanderou;S;$2.13;Isomalt
+ccokeov;XS;$3.18;Truffle Shells - Semi - Sweet
+ysperringow;2XL;$4.76;Bread Fig And Almond
+avelezox;XS;$6.38;Ice Cream - Life Savers
+mpipworthoy;2XL;$0.54;Strawberries - California
+mjoslingoz;L;$2.80;The Pop Shoppe - Root Beer
+wlabetp0;XS;$1.68;Radish
+jdemaidp1;XL;$9.19;Breakfast Quesadillas
+adennittsp2;L;$8.53;Muffin Mix - Blueberry
+sfitchenp3;M;$7.70;Bananas
+vpoletp4;M;$3.74;Wine - Casillero Del Diablo
+aerasmusp5;XS;$3.03;Wine - Rioja Campo Viejo
+rgullamp6;L;$3.23;Smirnoff Green Apple Twist
+szellnerp7;S;$9.29;Beer - Mcauslan Apricot
+bfroomp8;XS;$7.55;Soy Protein
+beakensp9;2XL;$1.56;Pastry - Trippleberry Muffin - Mini
+esiwardpa;2XL;$3.17;Pastry - Apple Muffins - Mini
+cchancepb;XS;$1.97;Myers Planters Punch
+jcicceralepc;L;$4.45;Cakes Assorted
+aucchinopd;XL;$3.48;Beef - Tenderloin
+dconsadinepe;3XL;$9.98;Cake Circle, Paprus
+ndythampf;M;$6.20;Latex Rubber Gloves Size 9
+jriegerpg;S;$5.10;Napkin White - Starched
+mbrydenph;3XL;$8.68;Beans - Fava, Canned
+delbypi;2XL;$9.00;Wine - Red, Mosaic Zweigelt
+pdeeginpj;S;$6.13;Hickory Smoke, Liquid
+diannipk;2XL;$0.36;Pears - Fiorelle
+khuntingdonpl;2XL;$5.07;Sprouts - Baby Pea Tendrils
+cpavlovpm;S;$0.25;Cornstarch
+mmeneerpn;L;$5.99;Pickles - Gherkins
+rvoyseypo;3XL;$7.70;V8 Pet
+kfirpopp;3XL;$4.52;Yogurt - Plain
+nbraamspq;XS;$8.15;Chocolate Bar - Reese Pieces
+aloadmanpr;XL;$1.62;Haggis
+rlambardps;S;$0.70;Lemons
+hbaulkpt;S;$8.70;Toothpick Frilled
+cvilapu;XS;$8.86;True - Vue Containers
+acanterapv;S;$6.38;Appetizer - Chicken Satay
+gwebermannpw;XL;$8.21;Bread - French Stick
+kgatehousepx;XS;$0.56;Yogurt - Peach, 175 Gr
+emerryweatherpy;M;$2.75;Wine - Casillero Deldiablo
+bspurlingpz;M;$1.27;Lemonade - Mandarin, 591 Ml
+aalyutinq0;M;$0.85;Beef - Rouladin, Sliced
+bheadingq1;XL;$7.83;Basil - Pesto Sauce
+zrohlfsq2;XS;$8.73;Container - Clear 32 Oz
+kblemingsq3;2XL;$5.17;Juice - Ocean Spray Kiwi
+edrainq4;S;$2.18;Cheese - Colby
+rbilovskyq5;M;$3.23;Pineapple - Regular
+sveschambreq6;XS;$0.34;Dried Cherries
+sroswarneq7;3XL;$4.42;Dry Ice
+kpaddefieldq8;XL;$6.15;Pasta - Canelloni
+jbutteq9;2XL;$8.23;Beets - Golden
+gsyphasqa;3XL;$6.01;Ham - Cooked Italian
+adiverqb;L;$6.94;Olives - Black, Pitted
+tmobleyqc;L;$2.81;Veal - Provimi Inside
+rwallingtonqd;XL;$9.14;Crab - Soft Shell
+ckellogqe;2XL;$0.09;Cleaner - Bleach
+cginoqf;L;$6.48;Bread - Pumpernickle, Rounds
+cbirdisqg;L;$0.35;Cheese - Oka
+mmasseyqh;2XL;$1.96;Wine - Charddonnay Errazuriz
+chardwickeqi;L;$2.90;Lamb - Whole Head Off,nz
+vweitzelqj;XS;$8.34;Steel Wool S.o.s
+jcicculiniqk;M;$6.41;Champagne - Brights, Dry
+marrigoql;XS;$0.87;Arizona - Green Tea
+bmatussevichqm;XS;$9.75;Cookies Almond Hazelnut
+jchattoeqn;S;$6.44;Sprouts - Alfalfa
+joxterbyqo;XL;$8.04;Cake Circle, Foil, Scallop
+btisonqp;L;$0.51;Nut - Hazelnut, Ground, Natural
+kcryerqq;3XL;$0.20;Grapes - Green
+hgosfordqr;XL;$6.69;Flour - Cake
+njeandotqs;M;$4.82;Glaze - Clear
+cwalkingshawqt;S;$2.90;Port - 74 Brights
+emongeotqu;XL;$8.09;Lidsoupcont Rp12dn
+cvaiseyqv;L;$7.00;Coffee - Almond Amaretto
+jcreechqw;3XL;$4.61;Shrimp - 21/25, Peel And Deviened
+wrepperqx;XL;$6.07;Sherbet - Raspberry
+sstutteqy;XS;$8.64;Sobe - Liz Blizz
+rhenmarshqz;S;$6.59;Wine - Red, Cabernet Merlot
+mwillersr0;L;$4.58;Juice - Ocean Spray Cranberry
+atutherr1;L;$8.52;Squash - Butternut
+ttheyerr2;L;$5.44;Carrots - Jumbo
+abodleighr3;3XL;$5.69;Wine - Riesling Dr. Pauly
+kcoer4;XL;$8.70;Crab - Claws, 26 - 30
+dlaborder5;2XL;$8.73;Truffle Shells - Semi - Sweet
+vmctavishr6;2XL;$1.68;Pork - Bacon,back Peameal
+zcastagnerir7;3XL;$5.99;Lettuce - Baby Salad Greens
+kgellibrandr8;XL;$1.98;Napkin - Dinner, White
+fsafellr9;3XL;$7.27;Magnotta - Bel Paese White
+sphippra;L;$8.10;Pork Casing
+ssweetingrb;M;$1.57;Juice - Clamato, 341 Ml
+kmathisonrc;S;$6.15;Foil - Round Foil
+lbushrd;3XL;$5.88;Soup - Campbells, Beef Barley
+shextre;XL;$0.90;Ecolab - Orange Frc, Cleaner
+eobradainrf;XL;$3.44;Jack Daniels
+jraesiderg;3XL;$9.89;Tea - Herbal Orange Spice
+broyallrh;XL;$9.02;Onions - Cippolini
+wrugglesri;XL;$3.31;Venison - Liver
+chaffardrj;XS;$6.48;Pepper - Roasted Red
+mpettecrewrk;XL;$0.67;Ice Cream - Strawberry
+mviciosorl;2XL;$9.02;Sauce - Fish 25 Ozf Bottle
+rwasonrm;2XL;$1.64;Chips Potato All Dressed - 43g
+cmatyasrn;M;$0.41;Coke - Diet, 355 Ml
+rcarlemanro;2XL;$5.76;Wiberg Super Cure
+blethebridgerp;L;$1.90;Pastry - Chocolate Chip Muffin
+bcausierrq;XS;$4.71;Lumpfish Black
+slinceyrr;L;$4.46;Nantucket - Orange Mango Cktl
