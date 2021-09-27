@@ -46,7 +46,7 @@
             </Label>
             <ImageView fitHeight="80.0" fitWidth="354.0" nodeOrientation="INHERIT" pickOnBounds="true" preserveRatio="true" GridPane.columnIndex="1">
                <image>
-                  <Image url="@../La%20Cucharita.png" />
+                  <Image url="@../../docs/La%20Cucharita.png" />
                </image>
             </ImageView>
          </children>

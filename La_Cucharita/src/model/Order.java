@@ -83,15 +83,14 @@ public class Order implements Serializable{
 	public int[] getAmountPerProducts() {
 		return amountPerProducts;
 	}
-	//recordar que la cantidad por producto se va a llenar al momento en que trabajemos con la interfaz
-	//La interfaz va a retornar una cantidad por cada producto y esta se va a guardar en el array
+	
 	public void setAmountPerProducts(int[] amountPerProduct) {
 		amountPerProduct=new int[orderProducts.size()];
 	}
 	public ArrayList<Products> getProducts(){
 		return orderProducts;
 	}
-	//Igualmente los products tomaras
+	
 	public void setOrderProducts(ArrayList<Products> orderProducts) {
 		this.orderProducts=orderProducts;
 	}
